@@ -26,13 +26,13 @@ const PORTFOLIO_CONFIG = {
     },
     fairscore: {
       title: "FairScore",
-      repoUrl: "https://github.com/mhsatgit/FairScore",
-      liveUrl: "https://mhsatgit.github.io/FairScore/",
+      repoUrl: "https://github.com/mhsatgit/fairscore",
+      liveUrl: "https://mhsatgit.github.io/fairscore/",
     },
     smartwatch: {
       title: "Smartwatch UI Replica",
-      repoUrl: "https://github.com/mhsatgit/SmartWatch",
-      liveUrl: "https://mhsatgit.github.io/SmartWatch/",
+      repoUrl: "https://github.com/mhsatgit/smartwatch",
+      liveUrl: "https://mhsatgit.github.io/smartwatch/",
     },
   },
 };
@@ -72,7 +72,7 @@ const WORKBENCH_MODULES = {
   },
   fairscore: {
     file: "apps/api/app/services/explainability.py",
-    repoUrl: "https://github.com/mhsatgit/FairScore",
+    repoUrl: "https://github.com/mhsatgit/fairscore",
     module: "Fair Credit Intelligence",
     channel: "FastAPI · scikit-learn · Fairlearn",
     state: "Guarded XAI + Audit UI",
